@@ -1,0 +1,13 @@
+package cn.doitedu.meta_bus;
+
+import org.springframework.boot.SpringApplication;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
+
+@SpringBootApplication
+public class MetaBusApplication {
+
+    public static void main(String[] args) {
+        SpringApplication.run(MetaBusApplication.class, args);
+    }
+
+}
